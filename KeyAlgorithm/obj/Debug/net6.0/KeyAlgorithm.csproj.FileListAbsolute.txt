@@ -1,0 +1,15 @@
+C:\Users\renha\source\repos\KeyAlgorithm\KeyAlgorithm\bin\Debug\net6.0\KeyAlgorithm.exe
+C:\Users\renha\source\repos\KeyAlgorithm\KeyAlgorithm\bin\Debug\net6.0\KeyAlgorithm.deps.json
+C:\Users\renha\source\repos\KeyAlgorithm\KeyAlgorithm\bin\Debug\net6.0\KeyAlgorithm.runtimeconfig.json
+C:\Users\renha\source\repos\KeyAlgorithm\KeyAlgorithm\bin\Debug\net6.0\KeyAlgorithm.dll
+C:\Users\renha\source\repos\KeyAlgorithm\KeyAlgorithm\bin\Debug\net6.0\KeyAlgorithm.pdb
+C:\Users\renha\source\repos\KeyAlgorithm\KeyAlgorithm\obj\Debug\net6.0\KeyAlgorithm.csproj.AssemblyReference.cache
+C:\Users\renha\source\repos\KeyAlgorithm\KeyAlgorithm\obj\Debug\net6.0\KeyAlgorithm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\renha\source\repos\KeyAlgorithm\KeyAlgorithm\obj\Debug\net6.0\KeyAlgorithm.AssemblyInfoInputs.cache
+C:\Users\renha\source\repos\KeyAlgorithm\KeyAlgorithm\obj\Debug\net6.0\KeyAlgorithm.AssemblyInfo.cs
+C:\Users\renha\source\repos\KeyAlgorithm\KeyAlgorithm\obj\Debug\net6.0\KeyAlgorithm.csproj.CoreCompileInputs.cache
+C:\Users\renha\source\repos\KeyAlgorithm\KeyAlgorithm\obj\Debug\net6.0\KeyAlgorithm.dll
+C:\Users\renha\source\repos\KeyAlgorithm\KeyAlgorithm\obj\Debug\net6.0\refint\KeyAlgorithm.dll
+C:\Users\renha\source\repos\KeyAlgorithm\KeyAlgorithm\obj\Debug\net6.0\KeyAlgorithm.pdb
+C:\Users\renha\source\repos\KeyAlgorithm\KeyAlgorithm\obj\Debug\net6.0\KeyAlgorithm.genruntimeconfig.cache
+C:\Users\renha\source\repos\KeyAlgorithm\KeyAlgorithm\obj\Debug\net6.0\ref\KeyAlgorithm.dll
